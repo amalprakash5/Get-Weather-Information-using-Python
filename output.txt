@@ -1,0 +1,5 @@
+Weather Stats for - DELHI  || 22 Jun 2021 | 11:55:39 PM
+Current temperature is: 33.67 deg C
+Current weather desc  : haze
+Current Humidity      : 43 %
+Current wind speed    : 2.12 kmph
